@@ -24,4 +24,4 @@
 
 
 
-For reference, Base csv files are included on basis of which the following templates are coded. They are taken from Super Data Science Team.
+For reference, Base csv files are included on basis of which the following templates are coded. They are taken from the Super Data Science Team.
