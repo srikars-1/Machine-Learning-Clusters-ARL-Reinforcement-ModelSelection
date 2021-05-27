@@ -15,11 +15,11 @@
   2. Thompson Sampling
 
 ## Model Improvement
-  1. Radial Basis Function Kernel Suppoert Vector Machine (RBFK-SVM) Classification
-  2. Naive Bayes Classification
+  1. K-Fold Cross Validation
+  2. Grid search
 
 ## Model Boosting
-  6. XG Boost
-  7. CatBoost
+  1. XG Boost
+  2. CatBoost
 
 For reference, Base csv files are included on basis of which the following templates are coded. They are taken from Super Data Science Team.
