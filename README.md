@@ -1,4 +1,4 @@
-## Machine-Learning-Clusters-Reinforcement-ModelSelection
+## Machine-Learning-Clusters-ARL-Reinforcement-ModelSelection
 
 ## One stop for various Classification algorithms.
 
